@@ -2,12 +2,15 @@ title: Physical Comp. w/ Arduino
 description: Hands-On Introduction to Physical Computing with Arduino course website
 theme: just-the-docs
 color_scheme: customRed
+logo: "/assets/images/wordart.png"
 
 url: https://gocivici.github.io/ID7219
 
 aux_links:
   "Course Repository":
     - "https://github.com/gocivici/ID7219"
+
+footer_content: "&copy 2023 <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>, Görkem Bozkurt. You are free to remix, transform, and build upon the material as long as you distribute your contributions under the same license as the original."
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
