@@ -4,4 +4,4 @@ layout: default
 parent: Student Projects
 ---
 
-Basics
+Basics test
