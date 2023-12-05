@@ -5,7 +5,7 @@ nav_order: 1
 ---
 Hello and welcome!
 
-This website includes interactive exercises for building simple input-output circuits with an Arduino. It was built to complement the **Hands-On Introduction to Physical Computing with Arduino** course given at the [Estonian Academy of Arts.](https://www.artun.ee/) The exercises aim to teach the basics of circuits while giving you room to experiment. You are encouraged to build physical circuits for each exercise with an Arduino Starter Kit but you can also edit the schematics and play around with the code for each exercise if you wish!
+This website includes interactive exercises for building simple input-output circuits with an Arduino. It was built to complement the **Hands-On Introduction to Physical Computing with Arduino** course at the [Estonian Academy of Arts.](https://www.artun.ee/) The exercises aim to teach the basics of circuits while giving you room to experiment. You are encouraged to build physical circuits for each exercise with an Arduino Starter Kit but you can also edit the schematics and play around with the code for each exercise if you wish!
 
 ### How to use this website
 
