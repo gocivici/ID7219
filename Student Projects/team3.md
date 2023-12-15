@@ -1,5 +1,5 @@
 ---
-title: Team 1
+title: Team 3
 layout: default
 parent: Student Projects
 ---
