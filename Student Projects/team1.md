@@ -15,12 +15,6 @@ Project Image             |  In Action
 
 Mike needs to be first calibrated to the light in the room. When touched on the side he will start whining (photoresistor is activated) and when you put your hand in his mouth the other photoresistor reacts to it changing his pitch.
 
-### In Action
- <video controls>
-  <source src="media/mikeVid.mp4" type="video/mp4">
-</video>
-
-
 ### Arduino Code
 
 GitHub Repo: [https://github.com/CarolAlice/Friendly-Mike](https://github.com/CarolAlice/Friendly-Mike)
