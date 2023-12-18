@@ -4,6 +4,16 @@
     align-items: center;
 }
 
+@media (min-width: 50rem){
+
+    .site-header {
+
+        min-height: 5rem !important;
+
+    }
+
+}
+
 video {
     width: 100% !important;
     max-width: 330px !important;
