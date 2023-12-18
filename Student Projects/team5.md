@@ -1,10 +1,10 @@
 ---
-title: Skeleton in the shower
+title: Skeleton in the Shower
 layout: default
 parent: Student Projects
 ---
 
-## Skeleton in the shower
+## Skeleton in the Shower
 by Iie-Mall Püüa & Alisa Butenko
 
 Project Image             |  In Action
