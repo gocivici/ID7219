@@ -8,12 +8,12 @@ parent: Student Projects
 
 by Carol Alice Tõniste & Helena Väinmaa
 
-![Place Holder Image](media/mike.jpg)
+<img src="media/mike.jpg" alt="drawing" width="480"/>
 
 Mike needs to be first calibrated to the light in the room. When touched on the side he will start whining (photoresistor is activated) and when you put your hand in his mouth the other photoresistor reacts to it changing his pitch.
 
 ### In Action
- <video controls>
+ <video width="640" controls>
   <source src="media/mikeVid.mp4" type="video/mp4">
 </video>
 
