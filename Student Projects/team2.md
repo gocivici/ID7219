@@ -1,13 +1,15 @@
 ---
-title: Team 2
+title: Garden Bee Game
 layout: default
 parent: Student Projects
 ---
 
 ## Title
-by [insert names]
+by Yachuan Chen & Yuko kinouchi
 
-![Place Holder Image](https://placehold.co/600x400?text=Project\nImage)
+Project Image             |  In Action
+:-------------------------:|:-------------------------:
+![](media/gardenBee.png)  |   <video controls><source src="media/gardenBee.MOV" type="video/mp4"></video>
  
 -Project summary-
 
