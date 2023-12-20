@@ -6,7 +6,8 @@ nav_order: 2
 
 # Electronics
 
-![Arduino Starter Kit](https://www.oomipood.ee/image/cache/catalog/IMG33613738600-800x800.png)
+{: .note }
+List of materials coming soon..
 
 # Cardboard Construction Kit
 
