@@ -10,6 +10,8 @@ nav_order: 2
 
 # Cardboard Construction Kit
 
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=https%3A%2F%2Fgocivici.github.io%2FID7219%2Fassets%2F3D%2520files%2FminiTool%2FminiTool.stl&orientation=bottom&edges=no&shading=flat&color=red&bgcolor=transparent" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+
 [Mini-tool for cardboard screw by Makedo](https://www.thingiverse.com/thing:974158)
 
 [Cardboard screw by Jepler](https://www.thingiverse.com/thing:2022677)
