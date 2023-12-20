@@ -23,10 +23,10 @@ nav_order: 2
     <tbody>
       <tr>
         <td style="text-align: center">
-          <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&amp;url=https%3A%2F%2Fgocivici.github.io%2FID7219%2Fassets%2F3D%2520files%2FminiTool%2FminiTool.stl&amp;orientation=bottom&amp;edges=no&amp;shading=flat&amp;color=red&amp;bgcolor=transparent" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+          <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=https%3A%2F%2Fgocivici.github.io%2FID7219%2Fassets%2F3D%2520files%2FScrew%2Fscrup.stl&orientation=bottom&color=blue&bgcolor=transparent" style="border:0;margin:0;width:100%;height:100%;"></iframe>
         </td>
         <td style="text-align: center">          <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&amp;url=https%3A%2F%2Fgocivici.github.io%2FID7219%2Fassets%2F3D%2520files%2FminiTool%2FminiTool.stl&amp;orientation=bottom&amp;edges=no&amp;shading=flat&amp;color=red&amp;bgcolor=transparent" style="border:0;margin:0;width:100%;height:100%;"></iframe></td>
-        <td style="text-align: center">          <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&amp;url=https%3A%2F%2Fgocivici.github.io%2FID7219%2Fassets%2F3D%2520files%2FminiTool%2FminiTool.stl&amp;orientation=bottom&amp;edges=no&amp;shading=flat&amp;color=red&amp;bgcolor=transparent" style="border:0;margin:0;width:100%;height:100%;"></iframe></td>
+        <td style="text-align: center"><iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=https%3A%2F%2Fgocivici.github.io%2FID7219%2Fassets%2F3D%2520files%2FServoMount%2FservoMount.stl&orientation=right&color=green&bgcolor=transparent" style="border:0;margin:0;width:100%;height:100%;"></iframe></td>
       </tr>
       <tr>
         <td style="text-align: center">
