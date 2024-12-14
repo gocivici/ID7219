@@ -21,56 +21,33 @@ Save the man by removing the excessive cotton in his stomach! Be very gentle tho
 
 ```c++
 int buzzer = 7;
-
 int photoresistor1 = A0;
-
 int photoresistor2 = A1; 
-
 int LED = 8;
 
-  
-
 void setup()
-
 {
-
   Serial.begin(9600); 
-
   pinMode(LED,OUTPUT);
-
-   pinMode(buzzer, OUTPUT);
-
-  
-
+  pinMode(buzzer, OUTPUT);
 }
-
-
 
 void loop()
 
 {
-
 int lightValue1 = analogRead(photoresistor1);
-
 int lightValue2 = analogRead(photoresistor2);
 
-  
+Serial.println(lightValue1);
 
-  Serial.println(lightValue1);
-
-  if(lightValue1<400 || lightValue2<400) {
-
+if(lightValue1<400 || lightValue2<400) {
   digitalWrite(LED,HIGH);
-
-    tone(buzzer, 330);
-
+  tone(buzzer, 330);
   }
-
   else{
 
   digitalWrite(LED,LOW); 
-
-    noTone(buzzer); }
+  noTone(buzzer); }
 
   }
 
