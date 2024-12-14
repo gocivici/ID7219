@@ -26,4 +26,4 @@ nav_order: 6
 - [Arduino Course for Everybody by freeCodeCamp.org](https://www.youtube.com/watch?v=DPqiIzK97K0): 10 hour long course which covers the basics of using an Arduino.
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Official tutorials by Arduino.
 
-- test
+

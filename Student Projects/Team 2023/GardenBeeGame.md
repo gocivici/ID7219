@@ -1,7 +1,7 @@
 ---
 title: Garden Bee Game
 layout: default
-parent: Student Projects
+parent: Team 2023
 ---
 
 ## Garden Bee Game
