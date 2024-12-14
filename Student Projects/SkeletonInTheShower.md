@@ -2,6 +2,7 @@
 title: Skeleton in the Shower
 layout: default
 parent: Team 2023
+grand_parent: Student Projects
 ---
 
 ## Skeleton in the Shower
