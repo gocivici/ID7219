@@ -11,7 +11,7 @@ by Eva & Marion
 
 Project Image             |  In Action
 :-------------------------:|:-------------------------:
-<img src="media/cat.jpg" alt="drawing" width="365"/>  |   <video width="365" controls><source src="media/catVideo.MOV" type="video/mp4"></video>
+<img src="media/cat.jpg" alt="drawing" width="365"/>  |   <video width="365" controls><source src="media/catVideo.mov" type="video/mp4"></video>
 
 
 Don’t boop the cat's nose!
