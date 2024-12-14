@@ -2,8 +2,6 @@
 title:  Friendly-Mike
 layout: default
 parent: Team 2023
-ancestor: Student Projects
-ancestor: Student Projects
 ---
 
 ##  Friendly-Mike
