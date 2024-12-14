@@ -1,7 +1,7 @@
 ---
 title: Spider House
 layout: default
-parent: Student Projects
+parent: Team 2023
 ---
 
 ## Spider House

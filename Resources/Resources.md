@@ -25,3 +25,5 @@ nav_order: 6
 - [Physical Computing by Professor Jon E. Froehlich](https://makeabilitylab.github.io/physcomp/): An open-source in-depth physical computing course which was one of the inspirations for this website! *(Learning prerequisites: coding experience required)*
 - [Arduino Course for Everybody by freeCodeCamp.org](https://www.youtube.com/watch?v=DPqiIzK97K0): 10 hour long course which covers the basics of using an Arduino.
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage): Official tutorials by Arduino.
+
+
