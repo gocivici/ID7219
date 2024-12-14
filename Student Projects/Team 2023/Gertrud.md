@@ -2,6 +2,7 @@
 title: Gertrud
 layout: default
 parent: Team 2023
+ancestor: Student Projects
 ---
 
 ## Gertrud
