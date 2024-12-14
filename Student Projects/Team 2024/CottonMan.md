@@ -11,7 +11,7 @@ by Luiza Stibe & Stella Tan
 
 Project Image             |  In Action
 :-------------------------:|:-------------------------:
-<img src="media/cotton.HEIC" alt="drawing" width="365"/>  |   <video width="365" controls><source src="media/mikeVid.mp4" type="video/mp4"></video>
+<img src="media/cotton.jpg" alt="drawing" width="365"/>  |   <video width="365" controls><source src="media/cottonVideo.MOV" type="video/mp4"></video>
 
 
 Save the man by removing the excessive cotton in his stomach! Be very gentle though, he is afraid of pain and he’ll shout at you if you hurt him.
